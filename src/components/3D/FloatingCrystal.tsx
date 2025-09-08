@@ -9,7 +9,7 @@ const FloatingCrystal = () => {
 
   useFrame((state) => {
     if (meshRef.current) {
-      meshRef.current.rotation.x = Math.sin(state.clock.elapsedTime) * 0.2;
+      meshRef.current.rotation.x = Math.sin(state.clock.elapsedTime) * 0.2 ;
       meshRef.current.rotation.y = state.clock.elapsedTime * 0.3;
       meshRef.current.position.y = Math.sin(state.clock.elapsedTime * 0.8) * 0.2;
     }
