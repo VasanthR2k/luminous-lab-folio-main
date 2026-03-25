@@ -59,7 +59,7 @@ const HeroSection = () => {
                 View Projects
                 <ArrowDown className="ml-2 w-4 h-4" />
               </Button>
-              <a href='https://drive.google.com/file/d/1DOm9-628sJsJLAAZB5L184Ib9NlFKehq/view' download="Vasanth_Kumar_Resume.pdf" target='_blank' rel="noreferrer">  
+              <a href='https://drive.google.com/file/d/11Xu0yc8BEOhqZwz6HUWfM27xYE93eXQs/view' download="Vasanth_Kumar_Resume.pdf" target='_blank' rel="noreferrer">  
               <Button
                 variant="outline"
                 size="lg"
